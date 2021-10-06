@@ -1,0 +1,9 @@
+Django
+Django-cleanup
+Django-ckeditor
+mysqlclient
+pillow
+django-crispy-forms
+cleanup
+django-sitemaps
+django-jazzmin
